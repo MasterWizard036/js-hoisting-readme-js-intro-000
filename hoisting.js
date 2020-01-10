@@ -1,8 +1,3 @@
-var callMe = "maybe";
-var lyric = callMe;
-var crazy = "hey!!!";
-var name2 = "Kristin";
-
 function callMe (callMe) {
   var lyric="maybe";
   console.log("I just met you...");
