@@ -33,7 +33,6 @@ function sayMyName() {
   function sayMy (name2){
  
   console.log(name2);
-  }
   
 }
   
