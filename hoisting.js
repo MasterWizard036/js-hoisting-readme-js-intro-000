@@ -31,6 +31,7 @@ function sayMyName() {
 }
 
   function sayMy (name2){
+    var name = "Kristin"
   console.log(name2);
 }
   
